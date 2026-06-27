@@ -1,2 +1,0 @@
-# DevAlpha
-Cloud Computing
